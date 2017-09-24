@@ -8,6 +8,6 @@
   * Visualized by using Seaborn and MapBox
 
 2. More detail
-  * Presentation slides [https://drive.google.com/open?id=1A9Tiwol3hv_zlAqeqT8FkfYlUShGob8TP_3NL5Y7ftY] 
-  * Final paper [https://drive.google.com/open?id=1A9Tiwol3hv_zlAqeqT8FkfYlUShGob8TP_3NL5Y7ftY]
+  * Presentation slides [https://drive.google.com/file/d/0By7vm-7wUgYnX2lOcHNZNWFiNXc/view?usp=sharing] 
+  * Final paper [https://docs.google.com/document/d/1A9Tiwol3hv_zlAqeqT8FkfYlUShGob8TP_3NL5Y7ftY/edit?usp=sharing]
 
